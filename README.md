@@ -2,6 +2,9 @@
 
   - Create React app
   - Configure tail wind
+  - Header
+  - Login Form
+  - Sign up form
 
   # Features
    - Login /Sign up
